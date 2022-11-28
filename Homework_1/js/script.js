@@ -16,9 +16,7 @@ else if(age === 18 ){
 else if(age > 16 ){
     obj.age = 'maktabni bitirgan'
 }
-else if(age < 18 ){
-    obj.age = '18 yoshdan katta'
-}
+
 console.log(obj)
 
 let rang = prompt('yashil,sariq va qizil')
